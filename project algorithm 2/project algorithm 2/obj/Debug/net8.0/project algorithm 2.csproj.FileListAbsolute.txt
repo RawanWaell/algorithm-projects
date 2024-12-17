@@ -1,0 +1,14 @@
+C:\Users\DELL\Documents\project algorithm 2\project algorithm 2\bin\Debug\net8.0\project algorithm 2.exe
+C:\Users\DELL\Documents\project algorithm 2\project algorithm 2\bin\Debug\net8.0\project algorithm 2.deps.json
+C:\Users\DELL\Documents\project algorithm 2\project algorithm 2\bin\Debug\net8.0\project algorithm 2.runtimeconfig.json
+C:\Users\DELL\Documents\project algorithm 2\project algorithm 2\bin\Debug\net8.0\project algorithm 2.dll
+C:\Users\DELL\Documents\project algorithm 2\project algorithm 2\bin\Debug\net8.0\project algorithm 2.pdb
+C:\Users\DELL\Documents\project algorithm 2\project algorithm 2\obj\Debug\net8.0\project algorithm 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Documents\project algorithm 2\project algorithm 2\obj\Debug\net8.0\project algorithm 2.AssemblyInfoInputs.cache
+C:\Users\DELL\Documents\project algorithm 2\project algorithm 2\obj\Debug\net8.0\project algorithm 2.AssemblyInfo.cs
+C:\Users\DELL\Documents\project algorithm 2\project algorithm 2\obj\Debug\net8.0\project algorithm 2.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Documents\project algorithm 2\project algorithm 2\obj\Debug\net8.0\project algorithm 2.dll
+C:\Users\DELL\Documents\project algorithm 2\project algorithm 2\obj\Debug\net8.0\refint\project algorithm 2.dll
+C:\Users\DELL\Documents\project algorithm 2\project algorithm 2\obj\Debug\net8.0\project algorithm 2.pdb
+C:\Users\DELL\Documents\project algorithm 2\project algorithm 2\obj\Debug\net8.0\project algorithm 2.genruntimeconfig.cache
+C:\Users\DELL\Documents\project algorithm 2\project algorithm 2\obj\Debug\net8.0\ref\project algorithm 2.dll
